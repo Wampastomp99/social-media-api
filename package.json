@@ -1,7 +1,7 @@
 {
   "name": "social-media-api",
   "version": "1.0.0",
-  "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
+  "description": "An API for a social media",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

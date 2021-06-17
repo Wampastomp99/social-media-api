@@ -10,6 +10,6 @@ A social Media api for you and all your friends
 
 ## Github and Demo
 
-Github: 
+Github: https://github.com/Wampastomp99/social-media-api1
 
-Demo:
+Demo: https://drive.google.com/file/d/1krt4pV-aM2Hv5X8nnoMaL2hQ8jtH7qlM/view
